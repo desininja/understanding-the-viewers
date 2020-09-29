@@ -3,6 +3,7 @@
 ### Hi 👋
 Let me just explain the objective/problem statement quickly before we hop on to the approach.
 Here we are given some data of a newly launched show on some online platform for example Netflix or Amazon. So the marketing team of the company wants to know why the number of viewers are decreasing or what features, or in lay man language what causing the disinterest of viewers in the show.
+
 Now this can happen because of various reasons 🤔:
   1. Decline in number of people coming to platform this can be due to competition or some free sources
   2. Decrease in marketing
