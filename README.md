@@ -1,4 +1,4 @@
-# understanding-the-viewers
+# Understanding-the-viewers
 
 ### Hi 👋
 Let me just explain the objective/problem statement quickly before we hop on to the approach.
